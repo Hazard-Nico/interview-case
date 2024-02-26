@@ -1,0 +1,1870 @@
+.eCommerceHomepageChild {
+    top: 1334.8px;
+    left: 134.8px;
+    border-top: 0.5px solid var(--text2);
+    width: 1170.5px;
+    height: 0.5px;
+  }
+  .eCommerceHomepageChild,
+  .eCommerceHomepageInner,
+  .eCommerceHomepageItem {
+    position: absolute;
+    box-sizing: border-box;
+    opacity: 0.3;
+  }
+  .eCommerceHomepageItem {
+    top: 1797.8px;
+    left: 134.8px;
+    border-top: 0.5px solid var(--text2);
+    width: 1170.5px;
+    height: 0.5px;
+  }
+  .eCommerceHomepageInner {
+    top: 141.8px;
+    left: 367.8px;
+    border-right: 0.5px solid var(--text2);
+    width: 0.5px;
+    height: 384.5px;
+  }
+  .womansFashion {
+    position: relative;
+    line-height: 24px;
+  }
+  .dropdownIcon {
+    width: 24px;
+    position: relative;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: contain;
+  }
+  .frameParent,
+  .mensFashionParent,
+  .womansFashionParent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0 51px;
+  }
+  .frameParent,
+  .mensFashionParent {
+    gap: 0 81px;
+  }
+  .frameParent {
+    position: absolute;
+    top: 182px;
+    left: 135px;
+    flex-direction: column;
+    gap: 16px 0;
+    text-align: center;
+    color: var(--text2);
+  }
+  .heroEndframeCvklg0xk3w6eLaIcon {
+    position: absolute;
+    top: 16px;
+    left: 396px;
+    width: 496px;
+    height: 352px;
+    object-fit: cover;
+  }
+  .pxAppleGrayLogo1Icon {
+    width: 40px;
+    position: relative;
+    height: 49px;
+    object-fit: cover;
+  }
+  .iphone14Series {
+    width: 126px;
+    position: relative;
+    line-height: 24px;
+    display: inline-block;
+    height: 20px;
+    flex-shrink: 0;
+  }
+  .pxAppleGrayLogo1Parent {
+    position: absolute;
+    top: 58px;
+    left: 64px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0 24px;
+  }
+  .upTo10 {
+    position: absolute;
+    top: 127px;
+    left: 64px;
+    font-size: var(--heading-48px-semibold-size);
+    letter-spacing: 0.04em;
+    line-height: 60px;
+    font-weight: 600;
+    font-family: var(--heading-24px-semibold);
+    text-align: left;
+    display: inline-block;
+    width: 294px;
+  }
+  .shopNow {
+    position: relative;
+    line-height: 24px;
+    font-weight: 500;
+  }
+  .frameChild {
+    width: 82px;
+    position: relative;
+    border-top: 1px solid var(--text);
+    box-sizing: border-box;
+    height: 1px;
+  }
+  .shopNowParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px 0;
+  }
+  .iconsArrowRight {
+    width: 24px;
+    position: relative;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .frameGroup {
+    position: absolute;
+    top: 269px;
+    left: 67px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0 8px;
+  }
+  .frameItem {
+    width: 12px;
+    position: relative;
+    border-radius: 50%;
+    background-color: var(--bg);
+    height: 12px;
+    opacity: 0.5;
+  }
+  .groupIcon {
+    width: 14px;
+    position: relative;
+    height: 14px;
+  }
+  .ellipseParent {
+    position: absolute;
+    top: 319px;
+    left: 353px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0 12px;
+  }
+  .heroEndframeCvklg0xk3w6eLaParent {
+    position: absolute;
+    top: 182px;
+    left: 413px;
+    background-color: var(--text2);
+    width: 892px;
+    height: 344px;
+    overflow: hidden;
+    text-align: center;
+    color: var(--text);
+  }
+  .viewAllProductsWrapper {
+    position: absolute;
+    top: 1219px;
+    left: 603px;
+    border-radius: var(--br-9xs);
+    background-color: var(--button2);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-base) var(--padding-29xl);
+    color: var(--text);
+  }
+  .frameChild2 {
+    position: absolute;
+    top: 0;
+    left: 552px;
+    border-radius: 50%;
+    background-color: #d9d9d9;
+    filter: blur(200px);
+    width: 504px;
+    height: 500px;
+    opacity: 0.3;
+  }
+  .enhanceYourMusic {
+    position: absolute;
+    top: 121px;
+    left: 56px;
+    font-size: var(--heading-48px-semibold-size);
+    letter-spacing: 0.04em;
+    line-height: 60px;
+    font-weight: 600;
+    font-family: var(--heading-24px-semibold);
+    display: inline-block;
+    width: 443px;
+  }
+  .flashSellTimerChild {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 50%;
+    background-color: var(--bg);
+  }
+  .div,
+  .hours {
+    position: relative;
+  }
+  .div {
+    line-height: 20px;
+    font-weight: 600;
+  }
+  .hours {
+    width: 32px;
+    font-size: var(--font-size-2xs);
+    line-height: 18px;
+    display: inline-block;
+    margin-top: -4px;
+  }
+  .parent {
+    position: absolute;
+    height: 54.84%;
+    width: 51.61%;
+    top: 22.58%;
+    right: 24.19%;
+    bottom: 22.58%;
+    left: 24.19%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .flashSellTimer {
+    width: 62px;
+    position: relative;
+    height: 62px;
+  }
+  .days {
+    width: 28px;
+    position: relative;
+    font-size: var(--font-size-2xs);
+    line-height: 18px;
+    display: inline-block;
+    margin-top: -4px;
+  }
+  .group {
+    position: absolute;
+    height: 54.84%;
+    width: 45.16%;
+    top: 22.58%;
+    right: 27.42%;
+    bottom: 22.58%;
+    left: 27.42%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .minutes {
+    width: 43px;
+    position: relative;
+    font-size: var(--font-size-2xs);
+    line-height: 18px;
+    display: inline-block;
+    margin-top: -4px;
+  }
+  .container {
+    position: absolute;
+    height: 54.84%;
+    width: 67.74%;
+    top: 22.58%;
+    right: 16.13%;
+    bottom: 22.58%;
+    left: 16.13%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .seconds {
+    width: 48px;
+    position: relative;
+    font-size: var(--font-size-2xs);
+    line-height: 18px;
+    display: inline-block;
+    margin-top: -4px;
+  }
+  .flashSellTimerParent,
+  .frameDiv {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .frameDiv {
+    position: absolute;
+    height: 54.84%;
+    width: 77.42%;
+    top: 22.58%;
+    right: 11.29%;
+    bottom: 22.58%;
+    left: 11.29%;
+    flex-direction: column;
+    align-items: center;
+  }
+  .flashSellTimerParent {
+    top: 273px;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 0 24px;
+    color: var(--text2);
+  }
+  .button,
+  .categories,
+  .flashSellTimerParent {
+    position: absolute;
+    left: 56px;
+  }
+  .button {
+    top: 375px;
+    border-radius: var(--br-9xs);
+    background-color: var(--button1);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-base) var(--padding-29xl);
+  }
+  .categories {
+    top: 69px;
+    line-height: 20px;
+    font-weight: 600;
+    color: var(--button1);
+  }
+  .jblBoombox2Hero020X11 {
+    position: absolute;
+    top: calc(50% - 165px);
+    left: calc(50% - 284px);
+    width: 568px;
+    height: 330px;
+    object-fit: contain;
+  }
+  .ellipseGroup,
+  .jblBoombox2Hero020X11Wrapper {
+    position: absolute;
+    top: 37px;
+    left: 526px;
+    width: 600px;
+    height: 420px;
+    overflow: hidden;
+  }
+  .ellipseGroup {
+    top: 2526px;
+    left: 135px;
+    background-color: var(--text2);
+    width: 1170px;
+    height: 500px;
+    color: var(--text);
+  }
+  .instanceChild {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-9xs);
+    background-color: var(--button2);
+  }
+  .rectangleWrapper {
+    width: 20px;
+    position: relative;
+    height: 40px;
+  }
+  .instanceParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0 16px;
+  }
+  .flashSales {
+    position: relative;
+    font-size: var(--heading-36px-semibold-size);
+    letter-spacing: 0.04em;
+    line-height: 48px;
+    font-weight: 600;
+    font-family: var(--heading-24px-semibold);
+    color: var(--text2);
+  }
+  .frameParent3 {
+    height: 103px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 24px 0;
+  }
+  .b,
+  .days1 {
+    position: relative;
+    display: inline-block;
+  }
+  .days1 {
+    width: 31px;
+    line-height: 18px;
+    font-weight: 500;
+  }
+  .b {
+    width: 46px;
+    font-size: var(--heading-32px-bold-size);
+    letter-spacing: 0.04em;
+    line-height: 30px;
+    font-family: var(--heading-24px-semibold);
+    height: 28px;
+    flex-shrink: 0;
+  }
+  .daysParent {
+    position: absolute;
+    height: 100%;
+    width: 15.23%;
+    top: 0;
+    right: 84.77%;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px 0;
+  }
+  .b1,
+  .hours1 {
+    position: relative;
+  }
+  .hours1 {
+    width: 35px;
+    line-height: 18px;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .b1 {
+    font-size: var(--heading-32px-bold-size);
+    letter-spacing: 0.04em;
+    line-height: 30px;
+    font-family: var(--heading-24px-semibold);
+  }
+  .hoursParent {
+    position: absolute;
+    height: 100%;
+    width: 13.91%;
+    top: 0;
+    right: 58.28%;
+    bottom: 0;
+    left: 27.81%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px 0;
+  }
+  .b2,
+  .minutes1 {
+    position: relative;
+    display: inline-block;
+  }
+  .minutes1 {
+    width: 49px;
+    line-height: 18px;
+    font-weight: 500;
+  }
+  .b2 {
+    width: 39px;
+    font-size: var(--heading-32px-bold-size);
+    letter-spacing: 0.04em;
+    line-height: 30px;
+    font-family: var(--heading-24px-semibold);
+    height: 28px;
+    flex-shrink: 0;
+  }
+  .minutesParent {
+    position: absolute;
+    height: 100%;
+    width: 16.23%;
+    top: 0;
+    right: 29.47%;
+    bottom: 0;
+    left: 54.3%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px 0;
+  }
+  .seconds1 {
+    width: 52px;
+    position: relative;
+    line-height: 18px;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .secondsParent {
+    position: absolute;
+    height: 100%;
+    width: 16.89%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 83.11%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px 0;
+  }
+  .semicloneChild {
+    width: 4px;
+    position: relative;
+    border-radius: 50%;
+    background-color: var(--hover-button);
+    height: 4px;
+  }
+  .semiclone,
+  .semiclone1,
+  .semiclone2 {
+    position: absolute;
+    height: 32%;
+    width: 1.32%;
+    top: 52%;
+    right: 77.81%;
+    bottom: 16%;
+    left: 20.86%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px 0;
+  }
+  .semiclone1,
+  .semiclone2 {
+    right: 51.32%;
+    left: 47.35%;
+  }
+  .semiclone2 {
+    right: 22.52%;
+    left: 76.16%;
+  }
+  .groupDiv {
+    width: 302px;
+    position: relative;
+    height: 50px;
+    font-size: var(--title-12px-medium-size);
+    color: var(--text2);
+  }
+  .frameParent2 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 0 87px;
+  }
+  .fillWithLeftArrow {
+    width: 46px;
+    position: relative;
+    height: 46px;
+  }
+  .fillWithLeftArrowParent,
+  .frameParent1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0 8px;
+  }
+  .frameParent1 {
+    align-items: flex-end;
+    gap: 0 470px;
+  }
+  .discountPercent {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    border-radius: var(--br-9xs);
+    background-color: var(--button2);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-9xs) var(--padding-xs);
+  }
+  .fillHeartIcon {
+    width: 34px;
+    position: relative;
+    height: 34px;
+  }
+  .fillHeartParent {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px 0;
+  }
+  .g922500x5001Icon {
+    position: absolute;
+    top: calc(50% - 76px);
+    left: calc(50% - 86px);
+    width: 172px;
+    height: 152px;
+    object-fit: cover;
+  }
+  .g922500x5001Wrapper {
+    position: absolute;
+    top: calc(50% - 90px);
+    left: calc(50% - 95px);
+    width: 190px;
+    height: 180px;
+    overflow: hidden;
+  }
+  .discountPercentParent {
+    width: 270px;
+    position: relative;
+    border-radius: var(--br-9xs);
+    background-color: var(--secondary);
+    height: 250px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .div6 {
+    position: relative;
+    text-decoration: line-through;
+    line-height: 24px;
+    font-weight: 500;
+    color: var(--text2);
+    opacity: 0.5;
+  }
+  .parent1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0 12px;
+    color: var(--button2);
+  }
+  .vectorIcon {
+    width: 20px;
+    position: relative;
+    border-radius: var(--br-11xs-4);
+    height: 20px;
+  }
+  .fiveStar {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .div7 {
+    width: 32px;
+    position: relative;
+    line-height: 21px;
+    font-weight: 600;
+    display: inline-block;
+    height: 20px;
+    flex-shrink: 0;
+    opacity: 0.5;
+  }
+  .fiveStarParent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0 8px;
+    font-size: var(--title-14px-semibold-size);
+  }
+  .cartWithFlatDiscount,
+  .havitHvG92GamepadParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .havitHvG92GamepadParent {
+    gap: 8px 0;
+    font-size: var(--title-16px-semibold-size);
+    color: var(--text2);
+  }
+  .cartWithFlatDiscount {
+    gap: 16px 0;
+  }
+  .rectangleDiv {
+    position: absolute;
+    width: 100%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 0 0 var(--br-9xs) var(--br-9xs);
+    background-color: var(--text2);
+    height: 41px;
+  }
+  .addToCart {
+    position: absolute;
+    top: calc(50% + 92px);
+    left: calc(50% - 48px);
+    font-size: var(--title-16px-semibold-size);
+    line-height: 24px;
+    font-weight: 500;
+    color: var(--bg);
+  }
+  .ak90001500x5001Icon {
+    position: absolute;
+    top: calc(50% - 50px);
+    left: calc(50% - 96px);
+    width: 191px;
+    height: 101px;
+    object-fit: cover;
+  }
+  .ak90001500x5001Wrapper {
+    position: absolute;
+    top: calc(50% - 110px);
+    left: calc(50% - 95px);
+    width: 190px;
+    height: 180px;
+    overflow: hidden;
+  }
+  .vectorIcon9 {
+    width: 20px;
+    position: relative;
+    border-radius: var(--br-11xs-4);
+    height: 20px;
+    opacity: 0.25;
+  }
+  .g27cq4500x5001Icon,
+  .samMoghadamKhamsehKvmdstrgoIcon {
+    position: absolute;
+    top: 26px;
+    left: 10px;
+    width: 170px;
+    height: 129px;
+    object-fit: cover;
+  }
+  .samMoghadamKhamsehKvmdstrgoIcon {
+    top: 0;
+    left: 41px;
+    width: 107px;
+    height: 180px;
+  }
+  .starHalfFilledIcon {
+    width: 20px;
+    position: relative;
+    height: 20px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .cartWithFlatDiscountParent {
+    width: 1308px;
+    overflow-x: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0 30px;
+    font-size: var(--title-12px-medium-size);
+    color: var(--text);
+  }
+  .frameContainer,
+  .frameParent5,
+  .frameParent6 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frameContainer {
+    position: absolute;
+    top: 782px;
+    left: 112px;
+    gap: 40px 0;
+  }
+  .frameParent5,
+  .frameParent6 {
+    gap: 20px 0;
+  }
+  .frameParent5 {
+    flex-direction: row;
+    align-items: flex-end;
+    gap: 0 691px;
+  }
+  .phones {
+    position: absolute;
+    bottom: 24px;
+    left: calc(50% - 30px);
+    line-height: 24px;
+  }
+  .categoryCellphoneIcon {
+    position: absolute;
+    top: 25px;
+    left: calc(50% - 28px);
+    width: 56px;
+    height: 56px;
+    overflow: hidden;
+  }
+  .categoryPhone {
+    width: 170px;
+    position: relative;
+    border-radius: var(--br-9xs);
+    border: 1px solid var(--color-gray-100);
+    box-sizing: border-box;
+    height: 145px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .computers {
+    position: absolute;
+    bottom: 24px;
+    left: calc(50% - 45px);
+    line-height: 24px;
+  }
+  .categoryComputerIcon {
+    position: absolute;
+    top: 25px;
+    left: calc(50% - 27px);
+    width: 56px;
+    height: 56px;
+    overflow: hidden;
+  }
+  .smartwatch {
+    position: absolute;
+    bottom: 24px;
+    left: calc(50% - 51px);
+    line-height: 24px;
+  }
+  .vectorIcon27,
+  .vectorIcon28,
+  .vectorIcon29,
+  .vectorIcon30 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vectorIcon28,
+  .vectorIcon29,
+  .vectorIcon30 {
+    height: 50%;
+    width: 50%;
+    top: 25%;
+    right: 25%;
+    bottom: 25%;
+    left: 25%;
+  }
+  .vectorIcon29,
+  .vectorIcon30 {
+    height: 12.5%;
+    width: 25%;
+    top: 75%;
+    right: 37.5%;
+    bottom: 12.5%;
+    left: 37.5%;
+  }
+  .vectorIcon30 {
+    top: 12.5%;
+    bottom: 75%;
+  }
+  .frameChild3,
+  .frameChild4,
+  .lineDiv {
+    width: 2px;
+    position: relative;
+    border-right: 2px solid var(--text2);
+    box-sizing: border-box;
+    height: 15px;
+  }
+  .frameChild3,
+  .frameChild4 {
+    height: 10px;
+  }
+  .frameChild4 {
+    height: 12px;
+  }
+  .lineParent {
+    position: absolute;
+    height: 23.21%;
+    width: 17.86%;
+    top: 39.29%;
+    right: 41.07%;
+    bottom: 37.5%;
+    left: 41.07%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 0 4px;
+  }
+  .camera {
+    position: absolute;
+    bottom: 24px;
+    left: calc(50% - 34px);
+    line-height: 24px;
+  }
+  .categoryPhone3 {
+    width: 170px;
+    position: relative;
+    border-radius: var(--br-9xs);
+    background-color: var(--button2);
+    box-shadow: var(--categogy-5);
+    height: 145px;
+    overflow: hidden;
+    flex-shrink: 0;
+    color: var(--text);
+  }
+  .gaming {
+    position: absolute;
+    bottom: 24px;
+    left: calc(50% - 32px);
+    line-height: 24px;
+  }
+  .categoryPhoneParent {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 0 30px;
+    color: var(--text2);
+  }
+  .categoryPhoneParent,
+  .frameParent4,
+  .frameParent8 {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .frameParent4 {
+    position: absolute;
+    top: 1415px;
+    left: 135px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 60px 0;
+  }
+  .frameParent8 {
+    flex-direction: row;
+    align-items: flex-end;
+    gap: 0 611px;
+  }
+  .zah9d56260021000000LightIcon {
+    position: absolute;
+    top: calc(50% - 73px);
+    left: calc(50% - 70px);
+    width: 140px;
+    height: 146px;
+    object-fit: cover;
+  }
+  .theNorthCoatParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px 0;
+  }
+  .c2st87460010820000LightGIcon,
+  .gammaxxL240Argb1500x5001Icon {
+    position: absolute;
+    top: calc(50% - 64px);
+    left: calc(50% - 89px);
+    width: 178px;
+    height: 129px;
+    object-fit: cover;
+  }
+  .gammaxxL240Argb1500x5001Icon {
+    top: calc(50% - 43px);
+    left: calc(50% - 95px);
+    width: 191px;
+    height: 95px;
+  }
+  .gammaxxL240Argb1500x5001Wrapper {
+    position: absolute;
+    top: 35px;
+    left: 40px;
+    width: 190px;
+    height: 180px;
+    overflow: hidden;
+  }
+  .samMoghadamKhamsehL7mqshlIcon {
+    position: absolute;
+    top: calc(50% - 87px);
+    left: calc(50% - 70px);
+    width: 140px;
+    height: 176px;
+    object-fit: cover;
+  }
+  .wrapper {
+    flex-direction: row;
+    align-items: flex-start;
+    color: var(--button2);
+  }
+  .frameParent12,
+  .frameParent7,
+  .wrapper {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .frameParent7 {
+    position: absolute;
+    top: 1868px;
+    left: 135px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 60px 0;
+  }
+  .frameParent12 {
+    flex-direction: row;
+    align-items: flex-end;
+    gap: 0 672px;
+  }
+  .rdoexxtrl1Icon {
+    position: absolute;
+    top: 0;
+    left: 38px;
+    width: 115px;
+    height: 180px;
+    object-fit: cover;
+  }
+  .frameParent15,
+  .threeStarParent {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 0 8px;
+  }
+  .threeStarParent {
+    align-items: flex-start;
+    font-size: var(--title-14px-semibold-size);
+    color: var(--text2);
+  }
+  .frameParent15 {
+    align-items: center;
+    color: var(--button2);
+  }
+  .addToCart1 {
+    position: absolute;
+    top: calc(50% + 92px);
+    left: calc(50% - 48px);
+    line-height: 24px;
+    font-weight: 500;
+  }
+  .eos250d03500x5001Icon {
+    position: absolute;
+    top: 8px;
+    left: 22px;
+    width: 146px;
+    height: 163px;
+    object-fit: cover;
+  }
+  .eos250d03500x5001Wrapper {
+    position: absolute;
+    top: calc(50% - 110px);
+    left: calc(50% - 99px);
+    width: 190px;
+    height: 180px;
+    overflow: hidden;
+  }
+  .canonEosDslrCameraParent,
+  .cart10 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px 0;
+    color: var(--text2);
+  }
+  .cart10 {
+    gap: 16px 0;
+    color: var(--bg);
+  }
+  .ideapadGaming3i01500x5001Icon {
+    position: absolute;
+    top: 0;
+    left: 9px;
+    width: 172px;
+    height: 180px;
+    object-fit: cover;
+  }
+  .div44 {
+    width: 40px;
+    position: relative;
+    line-height: 21px;
+    font-weight: 600;
+    display: inline-block;
+    height: 20px;
+    flex-shrink: 0;
+    opacity: 0.5;
+  }
+  .curologyJ7pkvqrtusmUnsplashIcon {
+    position: absolute;
+    top: 46px;
+    left: 49px;
+    width: 172px;
+    height: 159px;
+    object-fit: cover;
+  }
+  .cartGroup {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0 30px;
+  }
+  .new {
+    position: relative;
+    line-height: 18px;
+  }
+  .newButton {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    border-radius: var(--br-9xs);
+    background-color: var(--button1);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-9xs) var(--padding-xs);
+  }
+  .newMercedesBenzGtrLicensedIcon {
+    position: absolute;
+    top: calc(50% - 66px);
+    left: calc(50% - 90px);
+    width: 180px;
+    height: 133px;
+    object-fit: cover;
+  }
+  .colourChnageChild,
+  .colourChnageItem {
+    width: 20px;
+    position: relative;
+    height: 20px;
+  }
+  .colourChnageItem {
+    border-radius: 50%;
+    background-color: var(--button2);
+  }
+  .copaSense1Icon {
+    position: absolute;
+    top: 8px;
+    left: 2px;
+    width: 186px;
+    height: 164px;
+    object-fit: cover;
+  }
+  .cart17 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px 0;
+    font-size: var(--title-16px-semibold-size);
+    color: var(--text2);
+  }
+  .gp11Prd31Icon {
+    position: absolute;
+    top: 15px;
+    left: 6px;
+    width: 178px;
+    height: 150px;
+    object-fit: cover;
+  }
+  .cart19 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px 0;
+    cursor: pointer;
+  }
+  .cartInner {
+    position: absolute;
+    top: calc(50% - 90px);
+    left: calc(50% - 95px);
+    width: 190px;
+    height: 180px;
+    overflow: hidden;
+    object-fit: cover;
+  }
+  .cartContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0 30px;
+    font-size: var(--title-12px-medium-size);
+    color: var(--text);
+  }
+  .frameParent11,
+  .frameParent14 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 60px 0;
+  }
+  .frameParent14 {
+    align-items: flex-start;
+    color: var(--text2);
+  }
+  .frameParent11 {
+    align-items: center;
+  }
+  .viewAllProductsContainer {
+    border-radius: var(--br-9xs);
+    background-color: var(--button2);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-base) var(--padding-29xl);
+    color: var(--text);
+  }
+  .frameParent10 {
+    position: absolute;
+    top: 3097px;
+    left: 135px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 60px 0;
+  }
+  .ps5SlimGoedkopePlaystationIcon {
+    position: absolute;
+    top: 89px;
+    left: 29px;
+    width: 511px;
+    height: 511px;
+    object-fit: cover;
+  }
+  .blackAndWhite {
+    width: 242px;
+    position: relative;
+    font-size: var(--title-14px-semibold-size);
+    line-height: 21px;
+    font-family: var(--title-16px-semibold);
+    display: inline-block;
+  }
+  .underlineIcon {
+    width: 81px;
+    position: relative;
+    max-height: 100%;
+    opacity: 0.5;
+  }
+  .frameParent26,
+  .shopNowGroup {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .shopNowGroup {
+    font-size: var(--title-16px-semibold-size);
+    color: var(--bg);
+    font-family: var(--title-16px-semibold);
+  }
+  .frameParent26 {
+    position: absolute;
+    top: 446px;
+    left: 32px;
+    gap: 16px 0;
+  }
+  .ps5SlimGoedkopePlaystationParent {
+    width: 570px;
+    position: relative;
+    border-radius: var(--br-9xs);
+    background-color: var(--text2);
+    height: 600px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .attractiveWomanWearingHatPIcon {
+    position: absolute;
+    top: 0;
+    left: 138px;
+    width: 432px;
+    height: 286px;
+    object-fit: contain;
+  }
+  .womensCollections {
+    position: relative;
+    letter-spacing: 0.03em;
+    line-height: 24px;
+    font-weight: 600;
+  }
+  .featuredWomanCollections {
+    width: 255px;
+    position: relative;
+    font-size: var(--title-14px-semibold-size);
+    line-height: 21px;
+    font-family: var(--title-16px-semibold);
+    display: inline-block;
+  }
+  .frameParent28 {
+    position: absolute;
+    top: 138px;
+    left: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px 0;
+  }
+  .attractiveWomanWearingHatPParent {
+    width: 570px;
+    position: relative;
+    border-radius: var(--br-9xs);
+    background-color: #0d0d0d;
+    height: 284px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .ellipseIcon {
+    position: absolute;
+    top: calc(50% - 98px);
+    left: calc(50% - 98px);
+    width: 196px;
+    height: 196px;
+  }
+  .amazonEchoPngClipartTranspIcon {
+    position: absolute;
+    top: calc(50% - 111px);
+    left: calc(50% - 95px);
+    width: 190px;
+    height: 221px;
+    object-fit: cover;
+  }
+  .amazonEchoPngClipartTranspWrapper {
+    position: absolute;
+    top: 31px;
+    left: 30px;
+    width: 210px;
+    height: 222px;
+    overflow: hidden;
+  }
+  .amazonWirelessSpeakers {
+    width: 191px;
+    position: relative;
+    font-size: var(--title-14px-semibold-size);
+    line-height: 21px;
+    font-family: var(--title-16px-semibold);
+    display: inline-block;
+  }
+  .frameParent30 {
+    position: absolute;
+    top: 175px;
+    left: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px 0;
+  }
+  .vectorParent {
+    width: 270px;
+    position: relative;
+    border-radius: var(--br-9xs);
+    background-color: var(--text2);
+    height: 284px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .frameChild5 {
+    position: absolute;
+    top: calc(50% - 119px);
+    left: calc(50% - 119px);
+    width: 238px;
+    height: 238px;
+  }
+  .e82cd70aa6522dd785109a455904cIcon {
+    position: absolute;
+    top: calc(50% - 103px);
+    left: calc(50% - 101px);
+    width: 201px;
+    height: 203px;
+    object-fit: cover;
+  }
+  .e82cd70aa6522dd785109a455904cWrapper {
+    position: absolute;
+    top: calc(50% - 112px);
+    left: calc(50% - 105px);
+    width: 210px;
+    height: 222px;
+    overflow: hidden;
+  }
+  .frameParent27,
+  .frameParent29 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 0 30px;
+  }
+  .frameParent27 {
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 32px 0;
+  }
+  .frameParent23,
+  .frameParent25 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frameParent25 {
+    flex-direction: row;
+    gap: 0 30px;
+    font-size: var(--heading-24px-semibold-size);
+    color: var(--text);
+    font-family: var(--heading-24px-semibold);
+  }
+  .frameParent23 {
+    position: absolute;
+    top: 4253px;
+    left: 135px;
+    flex-direction: column;
+    gap: 60px 0;
+  }
+  .servicesIcon {
+    width: 80px;
+    position: relative;
+    height: 80px;
+  }
+  .freeAndFast {
+    position: relative;
+    line-height: 28px;
+    font-weight: 600;
+  }
+  .freeDeliveryFor {
+    position: relative;
+    font-size: var(--title-14px-semibold-size);
+    line-height: 21px;
+    text-align: center;
+  }
+  .freeAndFastDeliveryParent,
+  .servicesParent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px 0;
+  }
+  .servicesParent {
+    gap: 24px 0;
+  }
+  .friendly247Customer {
+    position: relative;
+    font-size: var(--title-14px-semibold-size);
+    line-height: 21px;
+  }
+  .servicesGroup,
+  .servicesParent1 {
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 24px 0;
+  }
+  .servicesGroup {
+    width: 262px;
+    display: flex;
+  }
+  .servicesParent1 {
+    display: none;
+  }
+  .instanceParent3 {
+    position: absolute;
+    top: 5161px;
+    left: 249px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 0 88px;
+    font-size: var(--title-20px-semibold-size);
+    color: var(--text2);
+  }
+  .underlineIcon4 {
+    width: 1440px;
+    position: relative;
+    max-height: 100%;
+    opacity: 0.5;
+  }
+  .frameWrapper,
+  .iconCopyrightParent,
+  .underlineParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .iconCopyrightParent {
+    gap: 0 6px;
+  }
+  .frameWrapper,
+  .underlineParent {
+    opacity: 0.6;
+  }
+  .underlineParent {
+    position: absolute;
+    top: 376px;
+    left: 0;
+    flex-direction: column;
+    gap: 16px 0;
+    opacity: 0.4;
+  }
+  .exclusive {
+    position: absolute;
+    top: 0;
+    left: 0;
+    letter-spacing: 0.03em;
+    line-height: 24px;
+  }
+  .logo {
+    width: 118px;
+    position: relative;
+    height: 24px;
+  }
+  .subscribe {
+    position: relative;
+    font-size: var(--title-20px-semibold-size);
+    line-height: 28px;
+    font-weight: 500;
+    font-family: var(--title-16px-semibold);
+  }
+  .logoParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 24px 0;
+  }
+  .enterYourEmail,
+  .get10Off {
+    position: relative;
+    line-height: 24px;
+  }
+  .get10Off {
+    font-size: var(--title-16px-semibold-size);
+    font-family: var(--title-16px-semibold);
+  }
+  .enterYourEmail {
+    opacity: 0.4;
+  }
+  .frameParent33,
+  .sendMail {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .sendMail {
+    width: 217px;
+    border-radius: var(--br-9xs);
+    border: 1.5px solid var(--text);
+    box-sizing: border-box;
+    flex-direction: row;
+    align-items: center;
+    padding: var(--padding-xs) 0 var(--padding-xs) var(--padding-base);
+    gap: 0 32px;
+    font-size: var(--title-16px-semibold-size);
+    font-family: var(--title-16px-semibold);
+  }
+  .frameParent33 {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px 0;
+    font-size: var(--heading-24px-semibold-size);
+    font-family: var(--heading-24px-semibold);
+  }
+  .support {
+    position: relative;
+    line-height: 28px;
+    font-weight: 500;
+  }
+  .bijoySaraniDhaka {
+    width: 175px;
+    position: relative;
+    line-height: 24px;
+    white-space: pre-wrap;
+    display: inline-block;
+  }
+  .bijoySaraniDhakaDh1515Parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px 0;
+    font-size: var(--title-16px-semibold-size);
+  }
+  .save3With {
+    position: relative;
+    line-height: 18px;
+    font-weight: 500;
+    opacity: 0.7;
+  }
+  .appstoreIcon,
+  .googleplayIcon,
+  .qrCodeIcon {
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .qrCodeIcon {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+  }
+  .appstoreIcon,
+  .googleplayIcon {
+    width: 110px;
+    height: 40px;
+  }
+  .appstoreIcon {
+    object-fit: cover;
+  }
+  .qrCodeParent,
+  .save3WithAppNewUserOnlyParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0 8px;
+  }
+  .save3WithAppNewUserOnlyParent {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px 0;
+    font-size: var(--title-12px-medium-size);
+  }
+  .frameParent32,
+  .iconFacebookParent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0 24px;
+  }
+  .frameParent32 {
+    position: absolute;
+    top: 80px;
+    left: 135px;
+    justify-content: center;
+    gap: 0 87px;
+    font-size: var(--title-20px-semibold-size);
+    color: var(--text);
+  }
+  .footer {
+    position: absolute;
+    top: 5462px;
+    left: 0;
+    background-color: var(--text2);
+    width: 1440px;
+    height: 440px;
+    overflow: hidden;
+    color: var(--bg);
+  }
+  .summerSaleFor {
+    width: 474px;
+    position: relative;
+    line-height: 21px;
+    display: inline-block;
+    height: 18px;
+    flex-shrink: 0;
+  }
+  .shopnow {
+    position: relative;
+    text-decoration: underline;
+    line-height: 24px;
+    font-weight: 600;
+    text-align: center;
+  }
+  .english {
+    position: relative;
+    line-height: 21px;
+  }
+  .englishParent,
+  .frameParent36 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 0 5px;
+  }
+  .frameParent36 {
+    position: absolute;
+    top: 12px;
+    right: 136px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0 231px;
+  }
+  .topHeader {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--text2);
+    width: 1440px;
+    height: 48px;
+    overflow: hidden;
+    font-size: var(--title-14px-semibold-size);
+    color: var(--text);
+  }
+  .underlineIcon5 {
+    width: 48px;
+    position: relative;
+    max-height: 100%;
+    opacity: 0.5;
+  }
+  .header1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .header2 {
+    width: 66px;
+    position: relative;
+    height: 24px;
+  }
+  .about {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 24px;
+  }
+  .header3,
+  .header4 {
+    width: 48px;
+    position: relative;
+    height: 24px;
+  }
+  .header4 {
+    width: 61px;
+    cursor: pointer;
+  }
+  .headerParent,
+  .logoGroup {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .headerParent {
+    gap: 0 48px;
+    text-align: center;
+    font-size: var(--title-16px-semibold-size);
+    font-family: var(--title-16px-semibold);
+  }
+  .logoGroup {
+    gap: 0 190px;
+  }
+  .whatAreYou {
+    position: relative;
+    line-height: 18px;
+    opacity: 0.5;
+  }
+  .searchComponentSet,
+  .whatAreYouLookingForParent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .whatAreYouLookingForParent {
+    flex-direction: row;
+    gap: 0 34px;
+  }
+  .searchComponentSet {
+    border-radius: var(--br-9xs);
+    background-color: var(--secondary);
+    flex-direction: column;
+    padding: var(--padding-6xs) var(--padding-xs) var(--padding-6xs)
+      var(--padding-xl);
+  }
+  .wishlistIcon {
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .cart1WithBuy,
+  .userIcon,
+  .wishlistIcon {
+    width: 32px;
+    position: relative;
+    height: 32px;
+  }
+  .cart1WithBuy {
+    cursor: pointer;
+  }
+  .userIcon {
+    overflow: hidden;
+    flex-shrink: 0;
+    display: none;
+  }
+  .header,
+  .searchComponentSetParent,
+  .wishlistParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 0 16px;
+  }
+  .header,
+  .searchComponentSetParent {
+    justify-content: flex-start;
+    gap: 0 24px;
+    font-size: var(--title-12px-medium-size);
+    font-family: var(--title-16px-semibold);
+  }
+  .header {
+    position: absolute;
+    top: 88px;
+    left: 135px;
+    gap: 0 148px;
+    font-size: var(--heading-24px-semibold-size);
+    color: var(--text2);
+    font-family: var(--heading-24px-semibold);
+  }
+  .fillWithUpArrow,
+  .lineIcon {
+    position: absolute;
+    top: 142px;
+    left: 0;
+    width: 1440px;
+    height: 0;
+  }
+  .fillWithUpArrow {
+    top: 5384px;
+    left: 1305px;
+    width: 46px;
+    height: 46px;
+    object-fit: contain;
+  }
+  .eCommerceHomepage {
+    width: 100%;
+    position: relative;
+    background-color: var(--bg);
+    height: 5902px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--title-16px-semibold-size);
+    color: var(--button2);
+    font-family: var(--title-16px-semibold);
+  }
+  

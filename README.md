@@ -22,10 +22,10 @@ This is my submission of interview case. This repository contains the source cod
 ## Installation
 1. Clone this repository
 2. Install dependencies:
-   for frontend folder:
+   ### For frontend folder:
      - cd frontend
      - npm i
-   for backend folder:
+   ### For backend folder:
    1. Start with create env folder:
         - python -m virtualenv env
         (Must install this library. If you don't have it just install with "pip install virtualenv")
